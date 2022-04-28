@@ -1,6 +1,6 @@
 {
   "name": "@ly-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "ly-cli-dev utils",
   "author": "62644456394964236 <zjshemn@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "de31811caa91ef0a25e95af8db56dd656275ea4a"
+  "gitHead": "e41a31a60a17d721aef2fed6e2f6c0a0a382c3ea"
 }
