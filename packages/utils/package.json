@@ -1,0 +1,19 @@
+{
+  "name": "@ly-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "ly-cli-dev utils",
+  "author": "62644456394964236 <zjshemn@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
