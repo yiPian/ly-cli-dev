@@ -1,6 +1,6 @@
 {
   "name": "@ly-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ly-cli-dev core",
   "author": "62644456394964236 <zjshemn@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ly-cli-dev/utils": "^1.0.4"
+    "@ly-cli-dev/utils": "^1.0.5"
   },
   "gitHead": "3ad844fa1cdfb98b35f00b1480919bb715f40cab",
   "publishConfig": {
