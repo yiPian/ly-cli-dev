@@ -19,5 +19,8 @@
   "dependencies": {
     "@ly-cli-dev/utils": "^1.0.4"
   },
-  "gitHead": "1cde5977eafc3f1445c57d8222e7816fc13e44a7"
+  "gitHead": "3ad844fa1cdfb98b35f00b1480919bb715f40cab",
+  "publishConfig": {
+    "access": "public"
+  }
 }
